@@ -1,0 +1,5 @@
+- 👋 Hi, I’m yeganehty
+- 👀 I’m interested in python and web programming
+- 🌱 I’m currently learning python Advance
+- 💞️ I’m looking to collaborate on python projects
+- 📫 How to reach me tayebiyeganeh17@gmail.com
